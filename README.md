@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🐲 Based in Wales, UK
+🌱 I’m currently learning ... HTML, CSS, JAVASCRIPT with freeCodeCamp.org
+📖 Certifications: #
+**Responsive Web Design**
+https://www.freecodecamp.org/certification/fcc3ec99f0b-3bcb-4736-a49a-ae1c664f3f44/responsive-web-design
+
+
+
 <!--
 **d-wescott/d-wescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
