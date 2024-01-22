@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🐲 Based in Wales, UK
-🌱 I’m currently learning ... HTML, CSS, JAVASCRIPT with freeCodeCamp.org
-📖 Certifications: #
-**Responsive Web Design**
-https://www.freecodecamp.org/certification/fcc3ec99f0b-3bcb-4736-a49a-ae1c664f3f44/responsive-web-design
+🐲 Based in Wales, UK<br>
+🌱 I’m currently learning ... HTML, CSS, JAVASCRIPT with freeCodeCamp.org<br>
+<ul>📖 Certifications:</ul>
+  <li src="https://www.freecodecamp.org/certification/fcc3ec99f0b-3bcb-4736-a49a-ae1c664f3f44/responsive-web-design">Responsive Web Design</li>
+
 
 
 
